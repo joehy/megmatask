@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MegmaTask</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyAiAir1uMz3NwJDd9vjIhqeEuTUgw2S7VM
+    </string>
+    <string name="search_title">"search "</string>
+    <string name="search_hint">search</string>
+    <string name="show_dialog">show Direction</string>
+</resources>
